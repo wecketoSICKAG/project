@@ -2,3 +2,4 @@ site_name: SICK Demo
 nav:
   - Home: index.md
   - About: about.md
+theme: readthedocs
