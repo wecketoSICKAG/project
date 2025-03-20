@@ -1,0 +1,32 @@
+site_name: Sensor Starter Kits
+nav:
+  - Home: index.md
+  - Starter Kits:
+    - Overview: starter_kits.md
+    - LiDAR Starter Kit: lidar_starter_kit.md
+    - Vision Starter Kit: vision_starter_kit.md
+  - Imprint: https://www.sick.com/de/de/s/imprint
+theme:
+  name: material
+  palette:
+    primary: 'blue'
+    accent: 'orange'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo: '/images/sick_logo.png'
+  features:
+    - content.code.copy
+copyright: "© SICK AG 2025"
+extra:
+  social:
+
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences

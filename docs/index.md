@@ -1,4 +1,2 @@
-# Welcome to SICK
-This is a demo page for SICK Ausbildung
-
-Find more about this page: [About](about)
+# Sensor Starter Kit
+The SICK Sensor Starter Kits provide a comprehensive set of tools and examples to help you quickly get started with SICK sensors. Whether you're working with LiDAR devices or other sensor technologies, these kits include everything you need to explore, prototype, and integrate sensor solutions into your projects.
