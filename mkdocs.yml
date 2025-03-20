@@ -1,4 +1,6 @@
 site_name: Sensor Starter Kits
+site_url: https://wecketosickag.github.io/project/
+use_directory_urls: false
 nav:
   - Home: index.md
   - Starter Kits:
@@ -7,14 +9,14 @@ nav:
     - Vision Starter Kit: vision_starter_kit.md
   - Imprint: https://www.sick.com/de/de/s/imprint
 theme:
-  name: jelly
+  name: material
   palette:
     primary: 'blue'
     accent: 'orange'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
-  logo: '/images/sick_logo.png'
+  logo: 'images/sick_logo.png'
   features:
     - content.code.copy
 copyright: "© SICK AG 2025"
