@@ -7,7 +7,7 @@ nav:
     - Vision Starter Kit: vision_starter_kit.md
   - Imprint: https://www.sick.com/de/de/s/imprint
 theme:
-  name: material
+  name: jelly
   palette:
     primary: 'blue'
     accent: 'orange'
